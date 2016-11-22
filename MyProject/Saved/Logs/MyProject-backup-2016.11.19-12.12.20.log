@@ -1,0 +1,1193 @@
+﻿Log file open, 11/18/16 16:49:34
+LogInit:Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1522788046) SRandInit(1522788046).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.435771
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3195953
+LogInit: Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Nov 12 2016 02:14:10
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.18-15.49.34:937][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.18-15.49.34:937][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.18-15.49.34:965][  0]LogInit: Computer: FRANSOBREMESA
+[2016.11.18-15.49.34:965][  0]LogInit: User: Fran
+[2016.11.18-15.49.34:965][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.11.18-15.49.34:965][  0]LogInit: High frequency timer resolution =3.515626 MHz
+[2016.11.18-15.49.34:965][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2016.11.18-15.49.34:965][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.18-15.49.34:965][  0]LogMemory: Process Physical Memory: 264.77 MB used, 264.77 MB peak
+[2016.11.18-15.49.34:965][  0]LogMemory: Process Virtual Memory: 262.79 MB used, 262.79 MB peak
+[2016.11.18-15.49.34:965][  0]LogMemory: Physical Memory: 4536.03 MB used,  11775.96 MB free, 16312.00 MB total
+[2016.11.18-15.49.34:965][  0]LogMemory: Virtual Memory: 676.37 MB used,  11775.96 MB free, 134217728.00 MB total
+[2016.11.18-15.49.35:236][  0]LogInit: Overriding culture en with editor configuration.
+[2016.11.18-15.49.37:338][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.18-15.49.37:814][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2016.11.18-15.49.37:814][  0]LogD3D11RHI:       4058/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.11.18-15.49.37:815][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.18-15.49.37:815][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.18-15.49.37:815][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.18-15.49.37:820][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.18-15.49.37:820][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.18-15.49.37:820][  0]LogWindows: EnumDisplayDevices:
+[2016.11.18-15.49.37:821][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2016.11.18-15.49.37:821][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2016.11.18-15.49.37:821][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2016.11.18-15.49.37:822][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2016.11.18-15.49.37:822][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2016.11.18-15.49.37:822][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2016.11.18-15.49.37:822][  0]LogD3D11RHI:   Driver Version: 375.70 (internal:21.21.13.7570, unified:375.70)
+[2016.11.18-15.49.37:822][  0]LogD3D11RHI:      Driver Date: 10-25-2016
+[2016.11.18-15.49.37:822][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.11.18-15.49.38:263][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.18-15.49.38:319][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.11.18-15.49.38:324][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Intermediate/Shaders/WorkingDirectory/12004/).
+[2016.11.18-15.49.38:324][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Fran/AppData/Local/Temp/UnrealShaderWorkingDir/EBCE11C24941AB23227D4EA60FEF594F/'.
+[2016.11.18-15.49.38:325][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.18-15.49.40:506][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.18-15.49.40:547][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2016.11.18-15.49.40:588][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2016.11.18-15.49.40:628][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2016.11.18-15.49.40:672][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2016.11.18-15.49.40:712][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.18-15.49.40:754][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.18-15.49.40:795][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.18-15.49.40:827][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.18-15.49.40:870][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.18-15.49.40:910][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.18-15.49.40:950][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.18-15.49.40:991][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.18-15.49.41:032][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.18-15.49.41:074][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.18-15.49.41:154][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.18-15.49.41:154][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.18-15.49.41:181][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.18-15.49.41:272][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.18-15.49.41:297][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.18-15.49.41:337][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.18-15.49.41:378][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.18-15.49.41:417][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.18-15.49.41:458][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.18-15.49.41:459][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.18-15.49.41:998][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.18-15.49.42:265][  0]LogDerivedDataCache: Loaded boot cache 0.27s 50MB C:/Users/Fran/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2016.11.18-15.49.42:265][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Fran/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2016.11.18-15.49.42:265][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.18-15.49.42:265][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.18-15.49.42:265][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.18-15.49.42:265][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.18-15.49.42:287][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.18-15.49.42:301][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Fran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.18-15.49.44:740][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.18-15.49.44:749][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.18-15.49.44:974][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2016.11.18-15.49.45:019][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2016.11.18-15.49.45:057][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2016.11.18-15.49.45:057][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2016.11.18-15.49.45:057][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.18-15.49.46:211][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: myproject, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2754685603
+[2016.11.18-15.49.46:278][  0]LogAssetRegistry: FAssetRegistry took 0.0239 seconds to start up
+[2016.11.18-15.49.46:313][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.016866 seconds
+[2016.11.18-15.49.46:317][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2016.11.18-15.49.46:317][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2016.11.18-15.49.46:317][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.18-15.49.46:369][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.18-15.49.47:035][  0]LogSlate: Using Freetype 2.6.0
+[2016.11.18-15.49.47:045][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.18-15.49.47:045][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.18-15.49.49:302][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.11.18-15.49.49:335][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.18-15.49.49:712][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.18-15.49.50:096][  0]SourceControl: Info Source control is disabled
+[2016.11.18-15.49.50:198][  0]SourceControl: Info Source control is disabled
+[2016.11.18-15.49.50:236][  0]SourceControl: Info Source control is disabled
+[2016.11.18-15.49.50:273][  0]SourceControl: Info Source control is disabled
+[2016.11.18-15.49.51:305][  0]LogEngine: Initializing Engine...
+[2016.11.18-15.49.51:309][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2016.11.18-15.49.51:629][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.18-15.49.51:646][  0]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-15.49.51:664][  0]LogInit: FAudioDevice initialized.
+[2016.11.18-15.49.51:686][  0]LogDerivedDataCache: Saved boot cache 0.02s 50MB C:/Users/Fran/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2016.11.18-15.49.51:694][  0]LogInit: Texture streaming: Enabled
+[2016.11.18-15.49.51:836][  0]LogInit: Transaction tracking system initialized
+[2016.11.18-15.49.52:135][  0]BlueprintLog: New page: Editor Load
+[2016.11.18-15.49.52:854][  0]LocalizationService: Info Localization service is disabled
+[2016.11.18-15.49.53:392][  0]LogConsoleResponse:Display: 
+[2016.11.18-15.49.53:793][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.18-15.49.53:793][  0]LogCook:Display: Mobile HDR setting 1
+[2016.11.18-15.49.54:551][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Fran/Documents/Unreal Projects/MyProject/Content/' took 0.02s
+[2016.11.18-15.49.54:609][  0]SourceControl: Info Source control is disabled
+[2016.11.18-15.49.54:611][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.18-15.49.54:612][  0]LightingResults: New page: Lighting Build
+[2016.11.18-15.49.54:649][  0]MapCheck: New page: Map Check
+[2016.11.18-15.49.54:649][  0]LightingResults: New page: Lighting Build
+[2016.11.18-15.49.55:154][  0]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-15.49.55:293][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.18-15.49.55:295][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.18-15.49.55:329][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 33.877ms to complete.
+[2016.11.18-15.49.55:329][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 0.719
+[2016.11.18-15.49.55:524][  0]LogCollectionManager: Loaded 0 collections in 0.001928 seconds
+[2016.11.18-15.49.55:607][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Fran/Documents/Unreal Projects/MyProject/Saved/Collections/' took 0.01s
+[2016.11.18-15.49.55:607][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Fran/Documents/Unreal Projects/MyProject/Content/Developers/Fran/Collections/' took 0.01s
+[2016.11.18-15.49.55:607][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Fran/Documents/Unreal Projects/MyProject/Content/Collections/' took 0.01s
+[2016.11.18-15.49.55:607][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2016.11.18-15.49.55:617][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2190 classes and 428 folders.
+[2016.11.18-15.49.55:649][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.18-15.49.55:649][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.18-15.49.55:650][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
+[2016.11.18-15.49.55:696][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.11.18-15.49.55:997][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.11.18-15.49.56:037][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.11.18-15.49.56:111][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.18-15.49.56:125][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.18-15.49.56:184][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.11.18-15.49.56:184][  0]LogLoad: (Engine Initialization) Total time: 24.14 seconds
+[2016.11.18-15.49.56:184][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.14 seconds
+[2016.11.18-15.49.56:184][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.18-15.49.56:184][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.18-15.49.56:525][  0]LogOcInput: OculusInput pre-init called
+[2016.11.18-15.49.56:548][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.11.18-15.49.56:755][  0]LogRenderer: Reallocating scene render targets to support 1148x576 NumSamples 1 (Frame:2).
+[2016.11.18-15.49.56:861][  1]LogAssetRegistry: Asset discovery search completed in 10.6058 seconds
+[2016.11.18-15.49.56:862][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.11.18-15.49.56:862][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000276 seconds (updated 0 objects)
+[2016.11.18-15.50.42:723][282]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 111 classes and 0 folders.
+[2016.11.18-15.53.36:994][ 38]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-15.53.37:922][126]LogSavePackage: Save=36.82ms
+[2016.11.18-15.53.37:922][126]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawn0BAB1E5148364DA3AC5FF9ABBE716202.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-15.53.37:927][126]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-15.53.39:721][333]LogSavePackage: Save=27.59ms
+[2016.11.18-15.53.39:721][333]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap2A4FC3104FEB5635801E44B2C9F80B52.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-15.53.39:724][333]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-15.53.39:856][333]LogSavePackage: Save=90.00ms
+[2016.11.18-15.53.39:856][333]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltDataB673EBF54FDA45AD24949A984C261ABA.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-15.53.39:858][333]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-15.53.40:784][444]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-15.53.40:800][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-15.53.40:801][444]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 5:53:40 PM)
+[2016.11.18-15.53.40:802][444]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-15.53.40:807][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005109s)
+[2016.11.18-15.53.40:807][444]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-15.53.40:808][444]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2016.11.18-15.53.40:808][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.006220s)
+[2016.11.18-15.53.40:825][444]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-15.53.40:829][444]LogInit: FAudioDevice initialized.
+[2016.11.18-15.53.40:883][444]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-15.53.40:886][444]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-16.53.40
+[2016.11.18-15.53.40:886][444]LogWorld: Bringing up level for play took: 0.001382
+[2016.11.18-15.53.40:922][444]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2016.11.18-15.53.40:922][444]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-15.53.40:922][444]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-15.53.40:922][444]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-15.53.40:922][444]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-15.53.40:922][444]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0.584
+[2016.11.18-15.54.41:250][664]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-15.54.43:116][868]LogSavePackage: Save=34.28ms
+[2016.11.18-15.54.43:116][868]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawnCD9FCFD94A3A416314A187A00D7DF6EC.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-15.54.43:119][868]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-15.54.44:636][ 36]LogSavePackage: Save=26.41ms
+[2016.11.18-15.54.44:636][ 36]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap0521F5624F6502CD9E1ABB9F324B988B.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-15.54.44:638][ 36]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-15.54.44:730][ 36]LogSavePackage: Save=64.05ms
+[2016.11.18-15.54.44:730][ 36]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltData0F90AF5D4C9CB53312FEA6958272016E.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-15.54.44:731][ 36]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-15.54.46:093][199]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-15.54.46:105][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-15.54.46:105][199]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 5:54:46 PM)
+[2016.11.18-15.54.46:105][199]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-15.54.46:110][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004501s)
+[2016.11.18-15.54.46:110][199]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-15.54.46:110][199]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2016.11.18-15.54.46:111][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005454s)
+[2016.11.18-15.54.46:129][199]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-15.54.46:133][199]LogInit: FAudioDevice initialized.
+[2016.11.18-15.54.46:163][199]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-15.54.46:165][199]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-16.54.46
+[2016.11.18-15.54.46:165][199]LogWorld: Bringing up level for play took: 0.001232
+[2016.11.18-15.54.46:166][199]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-15.54.46:166][199]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-15.54.46:166][199]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-15.54.46:166][199]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-15.54.46:166][199]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap -0.172
+[2016.11.18-15.54.57:680][571]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-15.54.57:691][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-15.54.57:691][571]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 5:54:57 PM)
+[2016.11.18-15.54.57:691][571]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-15.54.57:695][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004044s)
+[2016.11.18-15.54.57:695][571]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-15.54.57:696][571]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2016.11.18-15.54.57:696][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005035s)
+[2016.11.18-15.54.57:716][571]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-15.54.57:719][571]LogInit: FAudioDevice initialized.
+[2016.11.18-15.54.57:748][571]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-15.54.57:751][571]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-16.54.57
+[2016.11.18-15.54.57:751][571]LogWorld: Bringing up level for play took: 0.001597
+[2016.11.18-15.54.57:751][571]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-15.54.57:751][571]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-15.54.57:751][571]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-15.54.57:751][571]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-15.54.57:751][571]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap -0.587
+[2016.11.18-15.55.53:644][152]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-15.55.54:254][207]LogSavePackage: Save=34.08ms
+[2016.11.18-15.55.54:254][207]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawn7A3EFE644C23811CB1170AA9A6B449EE.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-15.55.54:257][207]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-15.55.55:650][367]LogSavePackage: Save=26.15ms
+[2016.11.18-15.55.55:650][367]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMapD24699DD43249D16F534AAAD8BE731F5.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-15.55.55:652][367]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-15.55.55:743][367]LogSavePackage: Save=62.98ms
+[2016.11.18-15.55.55:743][367]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltData68C0E66F4F456DF48F34499A1BF93D40.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-15.55.55:745][367]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-15.55.56:705][482]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-15.55.56:719][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-15.55.56:719][482]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 5:55:56 PM)
+[2016.11.18-15.55.56:719][482]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-15.55.56:723][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003610s)
+[2016.11.18-15.55.56:724][482]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-15.55.56:724][482]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2016.11.18-15.55.56:724][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.004356s)
+[2016.11.18-15.55.56:741][482]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-15.55.56:745][482]LogInit: FAudioDevice initialized.
+[2016.11.18-15.55.56:773][482]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-15.55.56:775][482]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-16.55.56
+[2016.11.18-15.55.56:775][482]LogWorld: Bringing up level for play took: 0.001306
+[2016.11.18-15.55.56:775][482]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-15.55.56:775][482]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-15.55.56:775][482]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-15.55.56:775][482]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-15.55.56:775][482]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0.437
+[2016.11.18-15.58.35:386][535]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-15.58.35:397][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-15.58.35:397][535]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 5:58:35 PM)
+[2016.11.18-15.58.35:397][535]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-15.58.35:403][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005034s)
+[2016.11.18-15.58.35:403][535]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-15.58.35:403][535]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2016.11.18-15.58.35:403][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005885s)
+[2016.11.18-15.58.35:422][535]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-15.58.35:425][535]LogInit: FAudioDevice initialized.
+[2016.11.18-15.58.35:457][535]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-15.58.35:459][535]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-16.58.35
+[2016.11.18-15.58.35:459][535]LogWorld: Bringing up level for play took: 0.001464
+[2016.11.18-15.58.35:460][535]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-15.58.35:460][535]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-15.58.35:460][535]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-15.58.35:460][535]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-15.58.35:460][535]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap -0.879
+[2016.11.18-15.59.17:690][567]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-15.59.20:267][857]LogSavePackage: Save=33.90ms
+[2016.11.18-15.59.20:267][857]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawnE71DFF3B4EB4288049530F929F9D3445.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-15.59.20:269][857]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-15.59.22:317][ 95]LogSavePackage: Save=26.34ms
+[2016.11.18-15.59.22:317][ 95]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMapF924C8EB49DE41E36227D7A948FBC510.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-15.59.22:320][ 95]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-15.59.22:414][ 95]LogSavePackage: Save=62.99ms
+[2016.11.18-15.59.22:414][ 95]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltData0E3E64E54C3B30EE3F7F3997459E8632.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-15.59.22:416][ 95]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-15.59.23:385][211]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-15.59.23:397][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-15.59.23:397][211]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 5:59:23 PM)
+[2016.11.18-15.59.23:397][211]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-15.59.23:401][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004497s)
+[2016.11.18-15.59.23:402][211]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-15.59.23:402][211]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2016.11.18-15.59.23:402][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005292s)
+[2016.11.18-15.59.23:418][211]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-15.59.23:421][211]LogInit: FAudioDevice initialized.
+[2016.11.18-15.59.23:453][211]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-15.59.23:456][211]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-16.59.23
+[2016.11.18-15.59.23:456][211]LogWorld: Bringing up level for play took: 0.001438
+[2016.11.18-15.59.23:456][211]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-15.59.23:456][211]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-15.59.23:456][211]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-15.59.23:456][211]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-15.59.23:457][211]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap -0.882
+[2016.11.18-15.59.59:964][527]LogMaterial: Missing cached shader map for material Ship, compiling. 
+[2016.11.18-16.00.00:049][527]LogMaterial: Missing cached shader map for material Ship, compiling. 
+[2016.11.18-16.00.00:057][527]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.18-16.00.00:087][527]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2016.11.18-16.00.00:091][527]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2016.11.18-16.00.00:094][527]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2016.11.18-16.00.00:098][527]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2016.11.18-16.00.00:101][527]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2016.11.18-16.00.01:166][604]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2016.11.18-16.00.01:166][604]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.11.18-16.00.01:166][604]MaterialEditorStats: Info Texture samplers: 2/16
+[2016.11.18-16.01.11:795][919]LogSavePackage: Save=26.94ms
+[2016.11.18-16.01.11:795][919]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMapAC450D4F47197CDD4274BC8AD05920BB.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-16.01.11:798][919]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-16.01.11:893][919]LogSavePackage: Save=62.25ms
+[2016.11.18-16.01.11:893][919]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltData96F51F934BF0F1A1A647E08C61D89B7F.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-16.01.11:894][919]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-16.01.12:538][996]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-16.01.12:549][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-16.01.12:549][996]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 6:01:12 PM)
+[2016.11.18-16.01.12:549][996]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-16.01.12:554][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004475s)
+[2016.11.18-16.01.12:554][996]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-16.01.12:554][996]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2016.11.18-16.01.12:555][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005297s)
+[2016.11.18-16.01.12:574][996]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-16.01.12:577][996]LogInit: FAudioDevice initialized.
+[2016.11.18-16.01.12:605][996]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-16.01.12:607][996]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-17.01.12
+[2016.11.18-16.01.12:608][996]LogWorld: Bringing up level for play took: 0.001200
+[2016.11.18-16.01.12:608][996]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.01.12:608][996]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.01.12:608][996]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.01.12:608][996]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.01.12:608][996]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0.27
+[2016.11.18-16.01.55:092][877]LogRenderer: Reallocating scene render targets to support 1148x900 NumSamples 1 (Frame:40605).
+[2016.11.18-16.02.26:197][586]LogEditorTransaction: Undo Modify Component(s)
+[2016.11.18-16.04.36:977][221]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-16.04.58:144][709]LogSavePackage: Save=35.64ms
+[2016.11.18-16.04.58:144][709]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawn50F634BE405AE89B78B8AC94E04A987B.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-16.04.58:147][709]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-16.05.36:420][824]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.05.38:748][ 80]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.05.38:830][ 80]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.05.38:838][ 80]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.18-16.05.38:867][ 80]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_7, compiling. 
+[2016.11.18-16.05.38:872][ 80]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_8, compiling. 
+[2016.11.18-16.05.39:565][119]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.18-16.05.39:565][119]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.18-16.05.39:565][119]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.18-16.06.35:326][794]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.06.35:349][794]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.06.35:360][794]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.18-16.06.36:912][901]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2016.11.18-16.06.36:912][901]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2016.11.18-16.06.36:912][901]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.11.18-16.06.36:912][901]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.11.18-16.07.07:738][348]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.07.07:749][348]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.18-16.07.07:751][348]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.07.07:762][348]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.18-16.07.09:202][446]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2016.11.18-16.07.09:202][446]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2016.11.18-16.07.09:202][446]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.11.18-16.07.09:202][446]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.11.18-16.07.12:520][789]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.07.12:531][789]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.18-16.07.13:717][875]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2016.11.18-16.07.13:717][875]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2016.11.18-16.07.13:717][875]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.11.18-16.07.13:717][875]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.11.18-16.07.25:759][123]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.07.25:770][123]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.18-16.07.26:934][207]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2016.11.18-16.07.26:934][207]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2016.11.18-16.07.26:934][207]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.11.18-16.07.26:934][207]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.11.18-16.07.41:762][737]LogMaterialEditor: Saving and Compiling material energySphere
+[2016.11.18-16.07.42:169][737]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.07.42:189][737]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.18-16.07.42:206][737]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.07.42:225][737]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.07.42:239][737]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.18-16.07.45:299][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Materials/energySphere" FILE="../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/Geometry/Materials/energySphere.uasset" SILENT=true
+[2016.11.18-16.07.45:314][737]LogSavePackage: Save=10.74ms
+[2016.11.18-16.07.45:314][737]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/energySphere22AD01CB4072D0CFC98A529CE5CAF6C3.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/Geometry/Materials/energySphere.uasset'
+[2016.11.18-16.07.45:315][737]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/Geometry/Materials/energySphere.uasset
+[2016.11.18-16.07.45:320][737]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 50 instructions
+[2016.11.18-16.07.45:320][737]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 86 instructions
+[2016.11.18-16.07.45:320][737]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.11.18-16.07.45:320][737]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.11.18-16.08.18:467][601]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-16.08.20:334][803]LogSavePackage: Save=34.98ms
+[2016.11.18-16.08.20:334][803]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawnBFD713564727DC8511228FAB98E561A7.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-16.08.20:336][803]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-16.13.27:683][374]LogEditorTransaction: Undo Create Pin Link
+[2016.11.18-16.15.26:034][479]LogSavePackage: Save=28.84ms
+[2016.11.18-16.15.26:034][479]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_Auto12D2905DC4C8168B7F7B148A620AB5D12.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap'
+[2016.11.18-16.15.26:036][479]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto1.umap
+[2016.11.18-16.15.26:038][479]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.066
+[2016.11.18-16.15.26:038][479]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.066
+[2016.11.18-16.15.26:040][479]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickBP/Blueprints/TwinStickPawn] ([1] browsable assets)...
+[2016.11.18-16.15.26:052][479]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn]
+[2016.11.18-16.15.26:052][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/TwinStickPawn]
+[2016.11.18-16.15.26:100][479]LogSavePackage: Save=37.21ms
+[2016.11.18-16.15.26:100][479]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawn_Auto1CCD1AE5B4DE24E426E2F3990E6FB2014.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/TwinStickBP/Blueprints/TwinStickPawn_Auto1.uasset'
+[2016.11.18-16.15.26:101][479]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/TwinStickBP/Blueprints/TwinStickPawn_Auto1.uasset
+[2016.11.18-16.15.26:101][479]LogFileHelpers: Auto-saving content packages took 0.062
+[2016.11.18-16.20.51:250][431]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-16.20.53:054][605]LogSavePackage: Save=38.34ms
+[2016.11.18-16.20.53:054][605]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawn358E74884C2D32F42B7CC28BEB058563.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-16.20.53:059][605]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-16.20.54:386][749]LogSavePackage: Save=27.18ms
+[2016.11.18-16.20.54:386][749]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap037A1AA44D729DA03FAD76B0B4D2AB15.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-16.20.54:388][749]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-16.20.54:490][749]LogSavePackage: Save=62.84ms
+[2016.11.18-16.20.54:490][749]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltData8C0F87FD4F60FE1AB6CEDA866DE5EA0E.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-16.20.54:491][749]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-16.20.55:410][859]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-16.20.55:422][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-16.20.55:422][859]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 6:20:55 PM)
+[2016.11.18-16.20.55:422][859]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-16.20.55:427][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004972s)
+[2016.11.18-16.20.55:428][859]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-16.20.55:428][859]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2016.11.18-16.20.55:428][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005885s)
+[2016.11.18-16.20.55:448][859]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-16.20.55:453][859]LogInit: FAudioDevice initialized.
+[2016.11.18-16.20.55:480][859]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-16.20.55:483][859]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-17.20.55
+[2016.11.18-16.20.55:483][859]LogWorld: Bringing up level for play took: 0.001310
+[2016.11.18-16.20.55:483][859]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.20.55:483][859]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.20.55:483][859]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.20.55:483][859]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.20.55:483][859]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap -0.855
+[2016.11.18-16.21.20:567][484]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-16.21.20:579][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-16.21.20:580][484]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 6:21:20 PM)
+[2016.11.18-16.21.20:580][484]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-16.21.20:583][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003760s)
+[2016.11.18-16.21.20:584][484]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-16.21.20:584][484]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2016.11.18-16.21.20:584][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.004479s)
+[2016.11.18-16.21.20:601][484]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-16.21.20:605][484]LogInit: FAudioDevice initialized.
+[2016.11.18-16.21.20:630][484]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-16.21.20:632][484]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-17.21.20
+[2016.11.18-16.21.20:633][484]LogWorld: Bringing up level for play took: 0.001370
+[2016.11.18-16.21.20:633][484]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.21.20:633][484]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.21.20:633][484]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.21.20:633][484]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.21.20:633][484]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0.295
+[2016.11.18-16.21.39:554][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.18-16.21.40:965][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.18-16.21.42:065][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.11.18-16.21.43:021][ 61]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2016.11.18-16.26.31:535][823]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-16.26.32:583][926]LogSavePackage: Save=39.89ms
+[2016.11.18-16.26.32:583][926]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawn99E71A2D428E73E88A7633BF931F7DF4.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-16.26.32:586][926]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-16.26.35:223][231]LogSavePackage: Save=26.76ms
+[2016.11.18-16.26.35:223][231]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap3A04F6BB4B1A575E14A7A68E549F020B.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-16.26.35:226][231]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-16.26.35:327][231]LogSavePackage: Save=63.84ms
+[2016.11.18-16.26.35:327][231]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltData1DF2E216480D2937700FC1BA03C19997.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-16.26.35:329][231]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-16.26.36:231][339]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-16.26.36:243][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-16.26.36:243][339]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 6:26:36 PM)
+[2016.11.18-16.26.36:243][339]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-16.26.36:248][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004758s)
+[2016.11.18-16.26.36:248][339]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-16.26.36:248][339]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2016.11.18-16.26.36:249][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005588s)
+[2016.11.18-16.26.36:268][339]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-16.26.36:271][339]LogInit: FAudioDevice initialized.
+[2016.11.18-16.26.36:299][339]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-16.26.36:301][339]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-17.26.36
+[2016.11.18-16.26.36:302][339]LogWorld: Bringing up level for play took: 0.001279
+[2016.11.18-16.26.36:302][339]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.26.36:302][339]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.26.36:302][339]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.26.36:302][339]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.26.36:302][339]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap -0.036
+[2016.11.18-16.27.08:039][104]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-16.27.09:087][208]LogSavePackage: Save=37.78ms
+[2016.11.18-16.27.09:087][208]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawnE61055F749A938669861F6ACFED3960D.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-16.27.09:090][208]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-16.27.10:394][357]LogSavePackage: Save=26.48ms
+[2016.11.18-16.27.10:394][357]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMapF8D358004A93FF4C8248A1A1611FD750.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-16.27.10:396][357]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-16.27.10:490][357]LogSavePackage: Save=64.54ms
+[2016.11.18-16.27.10:490][357]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltData008CD7444F0881BBD7626884CEB6B35D.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-16.27.10:492][357]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-16.27.11:692][501]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-16.27.11:704][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-16.27.11:704][501]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 6:27:11 PM)
+[2016.11.18-16.27.11:704][501]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-16.27.11:708][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004002s)
+[2016.11.18-16.27.11:708][501]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-16.27.11:708][501]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2016.11.18-16.27.11:709][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.004757s)
+[2016.11.18-16.27.11:726][501]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-16.27.11:729][501]LogInit: FAudioDevice initialized.
+[2016.11.18-16.27.11:758][501]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-16.27.11:761][501]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-17.27.11
+[2016.11.18-16.27.11:761][501]LogWorld: Bringing up level for play took: 0.001421
+[2016.11.18-16.27.11:761][501]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.27.11:761][501]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.27.11:761][501]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.27.11:762][501]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.27.11:762][501]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap -0.577
+[2016.11.18-16.33.24:322][565]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-16.33.25:165][641]LogSavePackage: Save=39.98ms
+[2016.11.18-16.33.25:166][641]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawn5030D4BE4D4F3A1361B24198FD5A7672.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-16.33.25:168][641]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-16.33.27:105][856]LogSavePackage: Save=26.95ms
+[2016.11.18-16.33.27:105][856]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap4A98AD3D463351DECC3B11AD8F72DB11.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-16.33.27:107][856]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-16.33.27:210][856]LogSavePackage: Save=63.36ms
+[2016.11.18-16.33.27:210][856]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltData8014599843B9CFD8D31608928100696B.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-16.33.27:211][856]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-16.33.28:300][986]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-16.33.28:312][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-16.33.28:312][986]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 6:33:28 PM)
+[2016.11.18-16.33.28:312][986]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-16.33.28:316][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004380s)
+[2016.11.18-16.33.28:317][986]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-16.33.28:317][986]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2016.11.18-16.33.28:317][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005265s)
+[2016.11.18-16.33.28:336][986]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-16.33.28:340][986]LogInit: FAudioDevice initialized.
+[2016.11.18-16.33.28:372][986]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-16.33.28:375][986]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-17.33.28
+[2016.11.18-16.33.28:375][986]LogWorld: Bringing up level for play took: 0.001404
+[2016.11.18-16.33.28:376][986]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.33.28:376][986]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.33.28:376][986]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.33.28:376][986]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.33.28:376][986]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0.037
+[2016.11.18-16.33.57:009][404]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-16.33.57:997][500]LogSavePackage: Save=43.59ms
+[2016.11.18-16.33.57:997][500]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawnFFABFC654EC8D2A7EA343C9B6C1A99CD.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-16.33.57:999][500]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-16.33.59:738][701]LogSavePackage: Save=27.58ms
+[2016.11.18-16.33.59:738][701]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap6187639E43124519C72EE1824E6EE87C.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-16.33.59:741][701]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-16.33.59:832][701]LogSavePackage: Save=64.28ms
+[2016.11.18-16.33.59:832][701]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltDataF36A4CCF46798F26E904E1A104165D8C.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-16.33.59:834][701]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-16.34.00:543][786]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-16.34.00:555][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-16.34.00:555][786]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 6:34:00 PM)
+[2016.11.18-16.34.00:555][786]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-16.34.00:560][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004430s)
+[2016.11.18-16.34.00:560][786]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-16.34.00:560][786]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2016.11.18-16.34.00:560][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005173s)
+[2016.11.18-16.34.00:578][786]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-16.34.00:582][786]LogInit: FAudioDevice initialized.
+[2016.11.18-16.34.00:609][786]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-16.34.00:612][786]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-17.34.00
+[2016.11.18-16.34.00:612][786]LogWorld: Bringing up level for play took: 0.001492
+[2016.11.18-16.34.00:613][786]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.34.00:613][786]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.34.00:613][786]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.34.00:613][786]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.34.00:613][786]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0.274
+[2016.11.18-16.34.15:224][521]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.34.15:288][521]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.34.15:299][521]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.18-16.34.15:328][521]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_7, compiling. 
+[2016.11.18-16.34.15:333][521]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_8, compiling. 
+[2016.11.18-16.34.16:723][623]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2016.11.18-16.34.16:723][623]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2016.11.18-16.34.16:723][623]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.11.18-16.34.16:723][623]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.11.18-16.34.22:277][277]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.34.22:287][277]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.18-16.34.22:359][284]LogMaterialEditor: Saving and Compiling material energySphere
+[2016.11.18-16.34.22:908][284]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.34.22:937][284]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.18-16.34.22:951][284]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.34.22:972][284]LogMaterial: Missing cached shader map for material energySphere, compiling. 
+[2016.11.18-16.34.22:988][284]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.18-16.34.25:808][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Materials/energySphere" FILE="../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/Geometry/Materials/energySphere.uasset" SILENT=true
+[2016.11.18-16.34.25:833][284]LogSavePackage: Save=11.37ms
+[2016.11.18-16.34.25:833][284]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/energySphere6261D62B4AC460472B54CCBF2A3C35D3.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/Geometry/Materials/energySphere.uasset'
+[2016.11.18-16.34.25:835][284]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/Geometry/Materials/energySphere.uasset
+[2016.11.18-16.34.25:841][284]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 50 instructions
+[2016.11.18-16.34.25:841][284]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 86 instructions
+[2016.11.18-16.34.25:841][284]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2016.11.18-16.34.25:841][284]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.11.18-16.35.30:403][671]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-16.35.30:415][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-16.35.30:415][671]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 6:35:30 PM)
+[2016.11.18-16.35.30:415][671]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-16.35.30:419][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004633s)
+[2016.11.18-16.35.30:420][671]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-16.35.30:420][671]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2016.11.18-16.35.30:420][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005416s)
+[2016.11.18-16.35.30:439][671]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-16.35.30:442][671]LogInit: FAudioDevice initialized.
+[2016.11.18-16.35.30:474][671]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-16.35.30:476][671]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-17.35.30
+[2016.11.18-16.35.30:476][671]LogWorld: Bringing up level for play took: 0.001288
+[2016.11.18-16.35.30:476][671]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.35.30:476][671]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.35.30:476][671]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.35.30:477][671]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.35.30:477][671]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0.138
+[2016.11.18-16.36.11:069][515]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-16.36.11:768][577]LogSavePackage: Save=37.89ms
+[2016.11.18-16.36.11:768][577]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawnFFEB716840CFC91BC4B60A8CDFB0C215.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-16.36.11:770][577]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-16.36.13:075][726]LogSavePackage: Save=26.83ms
+[2016.11.18-16.36.13:075][726]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap767ED6514BC5B92658769E9C1B3B5D2D.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-16.36.13:077][726]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-16.36.13:172][726]LogSavePackage: Save=63.27ms
+[2016.11.18-16.36.13:172][726]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltData1D3D023F46788D2C75D191BC099E0714.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-16.36.13:173][726]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-16.36.13:968][821]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-16.36.13:980][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-16.36.13:980][821]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 6:36:13 PM)
+[2016.11.18-16.36.13:980][821]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-16.36.13:984][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004383s)
+[2016.11.18-16.36.13:985][821]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-16.36.13:985][821]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2016.11.18-16.36.13:985][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005126s)
+[2016.11.18-16.36.14:007][821]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-16.36.14:010][821]LogInit: FAudioDevice initialized.
+[2016.11.18-16.36.14:043][821]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-16.36.14:045][821]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-17.36.14
+[2016.11.18-16.36.14:046][821]LogWorld: Bringing up level for play took: 0.001441
+[2016.11.18-16.36.14:046][821]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.36.14:046][821]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.36.14:046][821]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.36.14:046][821]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.36.14:046][821]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap -0.292
+[2016.11.18-16.36.38:628][760]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-16.36.38:639][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-16.36.38:639][760]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 6:36:38 PM)
+[2016.11.18-16.36.38:639][760]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-16.36.38:643][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003950s)
+[2016.11.18-16.36.38:644][760]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-16.36.38:644][760]LogPlayLevel: PIE: World Init took: (0.000506s)
+[2016.11.18-16.36.38:644][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.004635s)
+[2016.11.18-16.36.38:661][760]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-16.36.38:664][760]LogInit: FAudioDevice initialized.
+[2016.11.18-16.36.38:693][760]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-16.36.38:695][760]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-17.36.38
+[2016.11.18-16.36.38:695][760]LogWorld: Bringing up level for play took: 0.001511
+[2016.11.18-16.36.38:696][760]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.36.38:696][760]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.36.38:696][760]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.36.38:696][760]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.36.38:696][760]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0.358
+[2016.11.18-16.37.38:803][954]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-16.37.39:633][ 31]LogSavePackage: Save=37.99ms
+[2016.11.18-16.37.39:633][ 31]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawn2D6EB4BD49530EAAC85AEBBC1242F85D.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-16.37.39:636][ 31]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-16.37.40:998][188]LogSavePackage: Save=26.91ms
+[2016.11.18-16.37.40:998][188]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap2603AD1E41FAC3EE0F452CBC83F9FE2B.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-16.37.41:000][188]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-16.37.41:089][188]LogSavePackage: Save=61.23ms
+[2016.11.18-16.37.41:089][188]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltData03AC0BC14C1BBB77B2DE6E88F8AA0DB5.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-16.37.41:091][188]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-16.37.43:350][459]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-16.37.43:362][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-16.37.43:362][459]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 6:37:43 PM)
+[2016.11.18-16.37.43:362][459]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-16.37.43:366][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003917s)
+[2016.11.18-16.37.43:366][459]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-16.37.43:367][459]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2016.11.18-16.37.43:367][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.004712s)
+[2016.11.18-16.37.43:384][459]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-16.37.43:387][459]LogInit: FAudioDevice initialized.
+[2016.11.18-16.37.43:419][459]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-16.37.43:421][459]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-17.37.43
+[2016.11.18-16.37.43:421][459]LogWorld: Bringing up level for play took: 0.001389
+[2016.11.18-16.37.43:422][459]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.37.43:422][459]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.37.43:422][459]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.37.43:422][459]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.37.43:422][459]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap -0.916
+[2016.11.18-16.38.35:903][681]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-16.38.36:621][744]LogSavePackage: Save=39.25ms
+[2016.11.18-16.38.36:621][744]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawn3C72ABEB474230D98B0F08BDF932BA98.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-16.38.36:623][744]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-16.38.38:061][907]LogSavePackage: Save=26.86ms
+[2016.11.18-16.38.38:061][907]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap235B8D8545355A67D68E6294C0E9AD23.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-16.38.38:064][907]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-16.38.38:164][907]LogSavePackage: Save=63.79ms
+[2016.11.18-16.38.38:164][907]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltDataA7EA3DAE4D579523FDC5C881A01FF79E.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-16.38.38:165][907]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-16.38.39:074][ 16]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-16.38.39:086][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-16.38.39:087][ 16]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 6:38:39 PM)
+[2016.11.18-16.38.39:087][ 16]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-16.38.39:091][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004576s)
+[2016.11.18-16.38.39:092][ 16]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-16.38.39:092][ 16]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2016.11.18-16.38.39:092][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005381s)
+[2016.11.18-16.38.39:109][ 16]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-16.38.39:113][ 16]LogInit: FAudioDevice initialized.
+[2016.11.18-16.38.39:142][ 16]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-16.38.39:145][ 16]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-17.38.39
+[2016.11.18-16.38.39:145][ 16]LogWorld: Bringing up level for play took: 0.001404
+[2016.11.18-16.38.39:145][ 16]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.38.39:145][ 16]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.38.39:145][ 16]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.38.39:146][ 16]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.38.39:146][ 16]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0.807
+[2016.11.18-16.46.01:216][779]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-16.46.02:111][862]LogSavePackage: Save=42.46ms
+[2016.11.18-16.46.02:111][862]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawnB9AF58C54AE58B348BE75A92B1C2D605.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-16.46.02:113][862]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-16.46.04:207][ 99]LogSavePackage: Save=27.03ms
+[2016.11.18-16.46.04:207][ 99]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap6C4E050E4DA3C2F86F90B7A24849B596.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-16.46.04:210][ 99]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-16.46.04:310][ 99]LogSavePackage: Save=63.58ms
+[2016.11.18-16.46.04:310][ 99]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltDataBDB43212476F360E94CCEBBF31523D08.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-16.46.04:311][ 99]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-16.46.05:037][186]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-16.46.05:049][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-16.46.05:049][186]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 6:46:05 PM)
+[2016.11.18-16.46.05:049][186]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-16.46.05:054][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004751s)
+[2016.11.18-16.46.05:055][186]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-16.46.05:055][186]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2016.11.18-16.46.05:055][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.005655s)
+[2016.11.18-16.46.05:072][186]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-16.46.05:077][186]LogInit: FAudioDevice initialized.
+[2016.11.18-16.46.05:105][186]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-16.46.05:108][186]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-17.46.05
+[2016.11.18-16.46.05:108][186]LogWorld: Bringing up level for play took: 0.001339
+[2016.11.18-16.46.05:108][186]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.46.05:108][186]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.46.05:108][186]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.46.05:109][186]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.46.05:109][186]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0.77
+[2016.11.18-16.46.40:286][386]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-16.46.40:887][436]LogSavePackage: Save=42.36ms
+[2016.11.18-16.46.40:887][436]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawnB2883B86402BDE20D02C7D821BCCBBDB.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-16.46.40:889][436]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-16.46.41:995][561]LogSavePackage: Save=26.95ms
+[2016.11.18-16.46.41:995][561]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap5097201E4299706DD0DCBEB9D867A165.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-16.46.41:998][561]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-16.46.42:089][561]LogSavePackage: Save=63.31ms
+[2016.11.18-16.46.42:089][561]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltDataF7E5E4074E40482EC1D75C9942A802C9.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-16.46.42:090][561]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-16.46.42:850][652]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.18-16.46.42:861][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.18-16.46.42:861][652]PIE: New page: PIE session: TwinStickExampleMap (Nov 18, 2016, 6:46:42 PM)
+[2016.11.18-16.46.42:861][652]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2016.11.18-16.46.42:865][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003775s)
+[2016.11.18-16.46.42:866][652]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2016.11.18-16.46.42:866][652]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2016.11.18-16.46.42:866][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.004569s)
+[2016.11.18-16.46.42:883][652]LogInit: XAudio2 using 'ASUS VX279-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.18-16.46.42:887][652]LogInit: FAudioDevice initialized.
+[2016.11.18-16.46.42:917][652]LogLoad: Game class is 'TwinStickGameMode_C'
+[2016.11.18-16.46.42:920][652]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2016.11.18-17.46.42
+[2016.11.18-16.46.42:920][652]LogWorld: Bringing up level for play took: 0.001282
+[2016.11.18-16.46.42:920][652]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.46.42:920][652]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.18-16.46.42:920][652]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.46.42:920][652]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.18-16.46.42:920][652]PIE: Info Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap 0.582
+[2016.11.18-16.47.07:196][544]BlueprintLog: New page: Compile TwinStickPawn
+[2016.11.18-16.47.07:812][596]LogSavePackage: Save=39.48ms
+[2016.11.18-16.47.07:812][596]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickPawnEAC4D8954271CA37A64E16B4C9225603.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2016.11.18-16.47.07:814][596]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset
+[2016.11.18-16.47.08:959][726]LogSavePackage: Save=26.52ms
+[2016.11.18-16.47.08:960][726]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap1F40D2C84877FE77C5F8CD9C846C4C4C.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-16.47.08:962][726]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-16.47.09:055][726]LogSavePackage: Save=64.65ms
+[2016.11.18-16.47.09:055][726]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltDataA9F9BDFF43C8995C978F9FAF54069FE2.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-16.47.09:056][726]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-16.47.09:659][792]LogSavePackage: Save=26.69ms
+[2016.11.18-16.47.09:659][792]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap880786144BF35108BC3066BB8770D3DA.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2016.11.18-16.47.09:660][792]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap.umap
+[2016.11.18-16.47.09:751][792]LogSavePackage: Save=63.54ms
+[2016.11.18-16.47.09:751][792]LogSavePackage: Moving '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Saved/TwinStickExampleMap_BuiltData3B8E80D74334D088A1B4BE826439EB42.tmp' to '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset'
+[2016.11.18-16.47.09:752][792]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/TwinStickBP/Maps/TwinStickExampleMap_BuiltData.uasset
+[2016.11.18-16.47.11:858][ 10]Cmd: QUIT_EDITOR
+[2016.11.18-16.47.12:476][ 10]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.18-16.47.12:498][ 10]LogExit: Preparing to exit.
+[2016.11.18-16.47.13:548][ 10]LogDirectoryWatcher: A directory notification for 'C:/Users/Fran/Documents/Unreal Projects/MyProject/Content/' was aborted.
+[2016.11.18-16.47.13:577][ 10]LogExit: Editor shut down
+[2016.11.18-16.47.13:577][ 10]LogExit: Transaction tracking system shut down
+[2016.11.18-16.47.13:663][ 10]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.18-16.47.13:663][ 10]LogExit: Object subsystem successfully closed.
+[2016.11.18-16.47.13:674][ 10]LogD3D11RHI: Shutdown
+[2016.11.18-16.47.13:674][ 10]LogD3D11RHI: CleanupD3DDevice
+[2016.11.18-16.47.13:738][ 10]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.18-16.47.13:753][ 10]LogHttp:Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2016.11.18-16.47.13:753][ 10]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B44B09B13-46AD-4EBA-E1C5-03B7930D3729%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.0-3195953%2B%2B%2BUE4%2BRelease-4.14&UserID=d5d330af4dd93d8c9108d889ed5167a4%7C3c5312b806f34eb08048b3493a229283%7C2d808a5d-d51f-4b7c-8081-edae07f54fe3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.18-16.47.13:753][ 10]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B44B09B13-46AD-4EBA-E1C5-03B7930D3729%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.0-3195953%2B%2B%2BUE4%2BRelease-4.14&UserID=d5d330af4dd93d8c9108d889ed5167a4%7C3c5312b806f34eb08048b3493a229283%7C2d808a5d-d51f-4b7c-8081-edae07f54fe3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.18-16.47.13:763][ 10]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (246)
+[2016.11.18-16.47.13:763][ 10]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2016.11.18-16.47.13:763][ 10]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (244)
+[2016.11.18-16.47.13:763][ 10]LogModuleManager: Shutting down and abandoning module BlueprintGraph (243)
+[2016.11.18-16.47.13:763][ 10]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (242)
+[2016.11.18-16.47.13:764][ 10]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2016.11.18-16.47.13:765][ 10]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2016.11.18-16.47.13:765][ 10]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2016.11.18-16.47.13:765][ 10]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2016.11.18-16.47.13:765][ 10]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2016.11.18-16.47.13:765][ 10]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2016.11.18-16.47.13:765][ 10]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2016.11.18-16.47.13:765][ 10]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2016.11.18-16.47.13:765][ 10]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2016.11.18-16.47.13:765][ 10]LogDirectoryWatcher: A directory notification for 'C:/Users/Fran/Documents/Unreal Projects/MyProject/Content/Collections/' was aborted.
+[2016.11.18-16.47.13:765][ 10]LogDirectoryWatcher: A directory notification for 'C:/Users/Fran/Documents/Unreal Projects/MyProject/Content/Developers/Fran/Collections/' was aborted.
+[2016.11.18-16.47.13:765][ 10]LogDirectoryWatcher: A directory notification for 'C:/Users/Fran/Documents/Unreal Projects/MyProject/Saved/Collections/' was aborted.
+[2016.11.18-16.47.13:765][ 10]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2016.11.18-16.47.13:766][ 10]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2016.11.18-16.47.13:766][ 10]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2016.11.18-16.47.13:766][ 10]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2016.11.18-16.47.13:766][ 10]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2016.11.18-16.47.13:766][ 10]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2016.11.18-16.47.13:766][ 10]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2016.11.18-16.47.13:766][ 10]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2016.11.18-16.47.13:766][ 10]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2016.11.18-16.47.13:766][ 10]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2016.11.18-16.47.13:766][ 10]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2016.11.18-16.47.13:766][ 10]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2016.11.18-16.47.13:766][ 10]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2016.11.18-16.47.13:766][ 10]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module Media (215)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2016.11.18-16.47.13:767][ 10]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2016.11.18-16.47.13:768][ 10]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2016.11.18-16.47.13:768][ 10]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2016.11.18-16.47.13:768][ 10]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2016.11.18-16.47.13:768][ 10]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2016.11.18-16.47.13:768][ 10]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2016.11.18-16.47.14:311][ 10]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2016.11.18-16.47.14:311][ 10]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2016.11.18-16.47.14:311][ 10]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2016.11.18-16.47.14:311][ 10]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2016.11.18-16.47.14:311][ 10]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2016.11.18-16.47.14:312][ 10]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2016.11.18-16.47.14:313][ 10]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2016.11.18-16.47.14:313][ 10]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2016.11.18-16.47.14:313][ 10]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2016.11.18-16.47.14:313][ 10]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2016.11.18-16.47.14:313][ 10]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2016.11.18-16.47.14:313][ 10]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2016.11.18-16.47.14:313][ 10]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2016.11.18-16.47.14:314][ 10]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2016.11.18-16.47.14:314][ 10]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2016.11.18-16.47.14:314][ 10]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2016.11.18-16.47.14:314][ 10]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2016.11.18-16.47.14:314][ 10]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2016.11.18-16.47.14:314][ 10]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2016.11.18-16.47.14:314][ 10]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2016.11.18-16.47.14:314][ 10]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2016.11.18-16.47.14:314][ 10]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2016.11.18-16.47.14:315][ 10]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2016.11.18-16.47.14:316][ 10]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2016.11.18-16.47.14:316][ 10]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2016.11.18-16.47.14:316][ 10]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2016.11.18-16.47.14:369][ 10]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2016.11.18-16.47.14:369][ 10]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2016.11.18-16.47.14:370][ 10]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2016.11.18-16.47.14:371][ 10]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2016.11.18-16.47.14:371][ 10]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2016.11.18-16.47.14:371][ 10]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2016.11.18-16.47.14:371][ 10]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2016.11.18-16.47.14:371][ 10]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2016.11.18-16.47.14:371][ 10]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2016.11.18-16.47.14:376][ 10]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2016.11.18-16.47.14:376][ 10]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2016.11.18-16.47.14:376][ 10]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2016.11.18-16.47.14:376][ 10]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2016.11.18-16.47.14:377][ 10]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2016.11.18-16.47.14:377][ 10]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2016.11.18-16.47.14:377][ 10]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2016.11.18-16.47.14:378][ 10]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2016.11.18-16.47.14:378][ 10]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2016.11.18-16.47.14:378][ 10]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2016.11.18-16.47.14:378][ 10]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2016.11.18-16.47.14:378][ 10]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2016.11.18-16.47.14:378][ 10]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2016.11.18-16.47.14:378][ 10]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2016.11.18-16.47.14:378][ 10]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2016.11.18-16.47.14:378][ 10]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2016.11.18-16.47.14:378][ 10]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2016.11.18-16.47.14:378][ 10]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2016.11.18-16.47.14:389][ 10]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2016.11.18-16.47.14:389][ 10]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2016.11.18-16.47.14:389][ 10]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2016.11.18-16.47.14:389][ 10]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2016.11.18-16.47.14:389][ 10]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2016.11.18-16.47.14:389][ 10]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2016.11.18-16.47.14:389][ 10]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2016.11.18-16.47.14:389][ 10]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2016.11.18-16.47.14:389][ 10]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2016.11.18-16.47.14:389][ 10]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2016.11.18-16.47.14:389][ 10]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2016.11.18-16.47.14:389][ 10]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2016.11.18-16.47.14:389][ 10]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2016.11.18-16.47.14:390][ 10]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2016.11.18-16.47.14:390][ 10]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2016.11.18-16.47.14:390][ 10]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2016.11.18-16.47.14:390][ 10]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2016.11.18-16.47.14:390][ 10]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2016.11.18-16.47.14:391][ 10]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2016.11.18-16.47.14:392][ 10]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2016.11.18-16.47.14:392][ 10]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2016.11.18-16.47.14:392][ 10]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2016.11.18-16.47.14:392][ 10]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2016.11.18-16.47.14:392][ 10]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2016.11.18-16.47.14:393][ 10]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2016.11.18-16.47.14:393][ 10]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2016.11.18-16.47.14:394][ 10]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2016.11.18-16.47.14:494][ 10]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2016.11.18-16.47.14:594][ 10]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2016.11.18-16.47.14:594][ 10]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2016.11.18-16.47.14:594][ 10]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2016.11.18-16.47.14:594][ 10]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2016.11.18-16.47.14:594][ 10]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2016.11.18-16.47.14:594][ 10]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2016.11.18-16.47.14:594][ 10]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2016.11.18-16.47.14:594][ 10]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2016.11.18-16.47.14:594][ 10]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2016.11.18-16.47.14:594][ 10]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2016.11.18-16.47.14:595][ 10]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2016.11.18-16.47.14:595][ 10]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2016.11.18-16.47.14:595][ 10]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2016.11.18-16.47.14:596][ 10]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2016.11.18-16.47.14:596][ 10]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2016.11.18-16.47.14:596][ 10]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2016.11.18-16.47.14:597][ 10]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2016.11.18-16.47.14:598][ 10]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2016.11.18-16.47.14:598][ 10]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2016.11.18-16.47.14:599][ 10]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2016.11.18-16.47.14:599][ 10]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2016.11.18-16.47.14:600][ 10]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2016.11.18-16.47.14:600][ 10]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2016.11.18-16.47.14:600][ 10]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2016.11.18-16.47.14:600][ 10]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2016.11.18-16.47.14:600][ 10]LogModuleManager: Shutting down and abandoning module Core (75)
+[2016.11.18-16.47.14:600][ 10]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2016.11.18-16.47.14:600][ 10]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.18-16.47.14:600][ 10]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Fran/Documents/Unreal Projects/MyProject/Content/' was aborted.
+[2016.11.18-16.47.14:601][ 10]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.18-16.47.14:601][ 10]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2016.11.18-16.47.14:753][ 10]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2016.11.18-16.47.14:753][ 10]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2016.11.18-16.47.14:753][ 10]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2016.11.18-16.47.14:754][ 10]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2016.11.18-16.47.14:754][ 10]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2016.11.18-16.47.14:754][ 10]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2016.11.18-16.47.14:754][ 10]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2016.11.18-16.47.14:754][ 10]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2016.11.18-16.47.14:810][ 10]LogDerivedDataCache: Shutdown
+[2016.11.18-16.47.14:810][ 10]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2016.11.18-16.47.14:810][ 10]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2016.11.18-16.47.14:810][ 10]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2016.11.18-16.47.14:810][ 10]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.11.18-16.47.14:811][ 10]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.11.18-16.47.14:812][ 10]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.11.18-16.47.14:812][ 10]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.11.18-16.47.14:812][ 10]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2016.11.18-16.47.14:812][ 10]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2016.11.18-16.47.14:812][ 10]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2016.11.18-16.47.14:812][ 10]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.18-16.47.14:812][ 10]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2016.11.18-16.47.14:814][ 10]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.11.18-16.47.14:814][ 10]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.11.18-16.47.14:814][ 10]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.18-16.47.14:815][ 10]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.18-16.47.14:815][ 10]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.18-16.47.14:815][ 10]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.18-16.47.14:817][ 10]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.18-16.47.14:817][ 10]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.18-16.47.14:817][ 10]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.18-16.47.14:817][ 10]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.18-16.47.14:817][ 10]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.18-16.47.14:817][ 10]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.18-16.47.14:817][ 10]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.18-16.47.14:817][ 10]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.18-16.47.14:818][ 10]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.18-16.47.14:818][ 10]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.18-16.47.14:819][ 10]LogExit: Exiting.
+[2016.11.18-16.47.14:830][ 10]Log file closed, 11/18/16 17:47:14
